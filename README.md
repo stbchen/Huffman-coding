@@ -1,4 +1,4 @@
-# Assignment 5 = "Huffman Coding"
+# Assignment 5: "Huffman Coding"
 
 This program will encode and decode files with encode.c and decode.c respectively. This program will perform encoding/decoding with Huffman coding. Files can be inputted and outputted from encode using the command line options -i or -o, as well as print compression statistics using the command line option -v. The basic structure of encoding a file is: creating a histogram of symbols and frequencies, creating a Huffman tree using a priority queue and a min heap, and dumping the tree and building the codes. Decoding a file is similar to the reverse order encoding a file, as the data is decoded by rebuilding the tree and traversing the tree to get the data decoded.
 
