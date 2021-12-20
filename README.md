@@ -27,7 +27,5 @@ $ ./encode [-h] [-v] [-i infile] [-o outfile]
 $ ./decode [-h] [-v] [-i infile] [-o outfile]
 ```
 
-## Other
-
 
 
